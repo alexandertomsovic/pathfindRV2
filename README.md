@@ -1,4 +1,4 @@
-# PathfindR_complete https://alexandertomsovic.github.io/pathfindr-test/
+# PathfindR_complete https://alexandertomsovic.github.io/pathfindr.complete/
 
 Hello! This project was created by Alexander Tomsovic!
 
