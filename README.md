@@ -10,7 +10,7 @@ Hope you like it! :)
 
 social:
 
-email: contactpathfibdr.io@gmail.com instagram: alexsdiabolicalworld
+email: contactpathfindr.io@gmail.com instagram: alexsdiabolicalworld
 
 This application uses the following algorithms:
 
