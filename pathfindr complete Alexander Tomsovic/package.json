@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "watchify /home/clement/Documents/Fullstack_Academy/Projects/Pathfinding_Algorithms/public/browser/board.js -o /home/clement/Documents/Fullstack_Academy/Projects/Pathfinding_Algorithms/public/browser/bundle.js"
+    "watch": 
   },
   "author": "",
   "license": "ISC",
