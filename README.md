@@ -8,9 +8,12 @@ tool for people who work in construction or architecture to be able to calculate
 
 Hope you like it! :)
 
-social:
+linktree: https://linktr.ee/alextomsovic
 
-email: contactpathfindr.io@gmail.com instagram: alexsdiabolicalworld
+email: contactpathfindr.io@gmail.com
+
+instagram: @alexsdiabolicalworld
+
 
 This application uses the following algorithms:
 
@@ -20,12 +23,14 @@ A Search**: arguably the best pathfinding algorithm; uses heuristics to guarante
 
 Greedy Best-first Search: a faster, more heuristic-heavy version of A*; does not guarantee the shortest path
 
-Swarm Algorithm: a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path
+Swarm Algorithm: a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path.
 
-Convergent Swarm Algorithm: the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path
+Convergent Swarm Algorithm: the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path.
 
-Bidirectional Swarm Algorithm: Swarm from both sides; does not guarantee the shortest path
+Bidirectional Swarm Algorithm: Swarm from both sides; does not guarantee the shortest path.
 
-Breath-first Search: a great algorithm; guarantees the shortest path
+Breath-first Search: a great algorithm; guarantees the shortest path.
 
-Depth-first Search: a very bad algorithm for pathfinding; does not guarantee the shortest path
+Depth-first Search: a very bad algorithm for pathfinding; does not guarantee shortest path. 
+
+PLEASE NOTE: I am not the originator of this idea, used objects, nor animations. Clement Mihailescu, the creator of ALGOEXPERT was the original one to create this project. I used his animations and objects to create a more efficient version of his program. I left his discord link and original instructions in the program. Be sure to check it out!
