@@ -29,5 +29,3 @@ Bidirectional Swarm Algorithm: Swarm from both sides; does not guarantee the sho
 Breath-first Search: a great algorithm; guarantees the shortest path
 
 Depth-first Search: a very bad algorithm for pathfinding; does not guarantee the shortest path
-
-i am also working on my own algorithm called the "Tomsorgarithm" which will find its path based on randomly generated index numbers 0,4 and will / 2. If the answer is < 1 the path will generate. This will repeat until the location has been found.
