@@ -33,4 +33,4 @@ Breath-first Search: a great algorithm; guarantees the shortest path.
 
 Depth-first Search: a very bad algorithm for pathfinding; does not guarantee shortest path. 
 
-PLEASE NOTE: I am not the originator of this idea, used objects, nor animations. Clement Mihailescu, the creator of ALGOEXPERT was the original one to create this project. I used his animations and objects to create a more efficient version of his program. I left his discord link and original instructions in the program. Be sure to check it out!
+PLEASE NOTE: I am not the originator of this idea, used objects, nor animations. Clement Mihailescu, the creator of ALGOEXPERT was the original one to create this project. I used some of his animations, objects, and code to create a more efficient version of his program. I left his discord link and original instructions in the program. Be sure to check it out! 
