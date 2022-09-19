@@ -4,10 +4,18 @@ PathfindR is a visual sorting program that illustrates how different sorting alg
 
 PLEASE NOTE: I am not the originator of this idea [**Clement Mihailescu**](https://github.com/clementmihailescu/Pathfinding-Visualizer), the creator of ALOGEXPERT was the original one to create this project and must be credited with the animations, sprites, and idea. I optimized some of his code and repackaged part of his UI tp give a better user experience. Make sure to check him and his work out!  
 
-## Algorithms
+## Features
+- 7+ advanced sorting algorithnms
+- Beginner friendly visualization UI
+- Multiple search nodes
+- Area builder for visualization
+- 
+## Algorithms With Shortest-Path Guarantee
 - [**Dijkstra's Algorithm**](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/): the father of pathfinding algorithms; guarantees the shortest path
 - [**A Search**](https://www.geeksforgeeks.org/a-search-algorithm/): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
 - [**Breath-first Search**](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/): a great algorithm; guarantees the shortest path.
+
+## Algorithms Without Shortest-Path Guarantee
 - [**Greedy Best-first Search**](https://ai-master.gitbooks.io/heuristic-search/content/what-is-greedy-best-first-search.html): a faster, more heuristic-heavy version of A*; does not guarantee the shortest path
 - [**Swarm Algorithm**](https://www.sciencedirect.com/topics/computer-science/swarm-intelligence-algorithm): a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path.
 - [**Convergent Swarm Algorithm**](https://www.hindawi.com/journals/cin/2013/384125/): the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path.
