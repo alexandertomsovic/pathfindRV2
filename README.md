@@ -1,4 +1,6 @@
 # PathfindR 2.0 | [PathfindR Project](https://alexandertomsovic.github.io/pathfindr/)
+![](https://img.shields.io/static/v1?label=PathfindR+Status&style=flat-square&message=Active&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Python&logo=python&style=flat-square&message=Version+3.9&color=3776AB)
 
 PathfindR is a visual sorting program that illustrates how different sorting algorithms operate. PathfindR incorperates a multitude of sorting algorithms listed below and presents the user with a grid which they can alter with walls, beginning / ending nodes, and bombs. This allows the user to make their own layouts and see multiple cases of these algorithms in action! Jump into [**PatfindR**](https://alexandertomsovic.github.io/pathfindr/) or read more about each algorithm below! 
 
@@ -9,7 +11,9 @@ PLEASE NOTE: I am not the originator of this idea [**Clement Mihailescu**](https
 - Beginner friendly visualization UI
 - Multiple search nodes
 - Area builder for visualization
-- 
+- Prebuilt mazes and patterns
+- Weighted nodes
+
 ## Algorithms With Shortest-Path Guarantee
 - [**Dijkstra's Algorithm**](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/): the father of pathfinding algorithms; guarantees the shortest path
 - [**A Search**](https://www.geeksforgeeks.org/a-search-algorithm/): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
