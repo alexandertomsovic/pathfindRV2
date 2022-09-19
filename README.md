@@ -26,7 +26,7 @@ PLEASE NOTE: I am not the originator of this idea [**Clement Mihailescu**](https
 - [**Swarm Algorithm**](https://www.sciencedirect.com/topics/computer-science/swarm-intelligence-algorithm): a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path.
 - [**Convergent Swarm Algorithm**](https://www.hindawi.com/journals/cin/2013/384125/): the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path.
 - [**Bidirectional Swarm Algorithm**](https://www.geeksforgeeks.org/bidirectional-search/): Swarm from both sides; does not guarantee the shortest path.
--[**Depth-first Search**](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/): a very bad algorithm for pathfinding; does not guarantee shortest path. 
+- [**Depth-first Search**](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/): a very bad algorithm for pathfinding; does not guarantee shortest path. 
 ## Creator
 - PathfindR and this repositor was created by [**Alexander Tomsovic**](https://github.com/alexandertomsovic)
 - Engineered by A.R.T. LLC
