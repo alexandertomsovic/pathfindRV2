@@ -40,6 +40,7 @@ PLEASE NOTE: I am not the originator of this idea [**Clement Mihailescu**](https
 </a>
 
 ## Contact
-Requests can be sent to *contactpathfindr.io@gmail.com*.
+- Requests for feature implementations and comments can be mailed to *contactpathfindr.io@gmail.com*.
+- You can visit our Instagrma [**@pathfindr.io**](https://www.instagram.com/pathfindr.io/)
 
-
+Thank you! 
