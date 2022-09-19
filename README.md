@@ -1,6 +1,6 @@
 # PathfindR 2.0 | [PathfindR Project](https://alexandertomsovic.github.io/pathfindr/)
 ![](https://img.shields.io/static/v1?label=PathfindR+Status&style=flat-square&message=Active&color=brightgreen)
-![](https://img.shields.io/static/v1?label=Python&logo=python&style=flat-square&message=Version+3.9&color=3776AB)
+![](https://img.shields.io/static/v1?label=javascript&logo=Javascript&style=flat-square&message=ES6&color=f0db4f)
 
 PathfindR is a visual sorting program that illustrates how different sorting algorithms operate. PathfindR incorperates a multitude of sorting algorithms listed below and presents the user with a grid which they can alter with walls, beginning / ending nodes, and bombs. This allows the user to make their own layouts and see multiple cases of these algorithms in action! Jump into [**PatfindR**](https://alexandertomsovic.github.io/pathfindr/) or read more about each algorithm below! 
 
