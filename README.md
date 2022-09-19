@@ -40,6 +40,6 @@ PLEASE NOTE: I am not the originator of this idea [**Clement Mihailescu**](https
 </a>
 
 ## Contact
-Requests can be sent to [contactpathfindr.io@gmail.com].
+Requests can be sent to [**contactpathfindr.io@gmail.com**].
 
 
