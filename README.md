@@ -1,4 +1,4 @@
-# PathfindR 2.0 | [athFindR Project](https://alexandertomsovic.github.io/pathfindr/)
+# PathfindR 2.0 | [PathFindR Project](https://alexandertomsovic.github.io/pathfindr/)
 
 Hello! This project was created by Alexander Tomsovic!
 
